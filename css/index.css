@@ -6,7 +6,6 @@
 .logo{
     width: 23%;
     padding: 1%;
-    text-align: center;
 }
 
 nav{
@@ -33,9 +32,10 @@ footer{
     background-color: #373738;
     padding: 1%;
     margin-top: 10px;
+    text-align: center;
 }
 
-footer>ul{
+footer > ul{
     display: inline-block;
     vertical-align: top;    
 }
